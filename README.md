@@ -37,3 +37,4 @@ Tasks:
     - First, research which professionals are sending significant numbers of patients only to competitor hospitals (such as TriStar Centennial Medical Center).
     - Next, consider the specialty of the provider. If Vanderbilt wants to increase volume from Orthopedic Surgeons or from Family Medicine doctors who should they reach out to in those areas?
 * Finally, look for "communities" of providers in the Nashville/Davidson County CBSA. Make use of the Louvain community detection algorithm from Neo4j: https://neo4j.com/docs/graph-data-science/current/algorithms/louvain/.
+
