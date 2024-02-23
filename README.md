@@ -16,7 +16,7 @@ The NPPES dataset contains a large number of fields, only a few of which are rel
     - 'Provider Last Name (Legal Name)'
     - 'Provider First Name'
     - 'Provider Middle Name'
-    - 'Provider Name Prefix Text'
+    - 'Provider Name Prefix Text
     - 'Provider Name Suffix Text'
     - 'Provider Credential Text'
 * Address: Business Practice Location (not mailing), contained in the following fields:
